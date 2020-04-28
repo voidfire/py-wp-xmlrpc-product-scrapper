@@ -8,7 +8,7 @@ It uses the [python-wordpress-xmlrpc](https://python-wordpress-xmlrpc.readthedoc
 
 Clone the script
 ```
-git clone https://github.com/voidfire/py-wp-xmlrpc-product-scrapper.git && 
+git clone https://github.com/voidfire/py-wp-xmlrpc-product-scrapper.git 
 ```
 
 ```
